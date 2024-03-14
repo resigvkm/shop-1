@@ -96,21 +96,21 @@ body {
 }
 
 .nav__button--cart::before {
-  content: url('../img/cart.svg');
+  content: url('img/cart.svg');
   height: 18px;
   width: auto;
   padding-right: 10px;
 }
 
 .nav__link--like::before {
-  content: url('../img/like.svg');
+  content: url('img/like.svg');
   height: 18px;
   width: auto;
   padding-right: 5px;
 }
 
 .nav__link--profile::before {
-  content: url('../img/profile.svg');
+  content: url('img/profile.svg');
   height: 18px;
   width: auto;
   padding-right: 5px;
